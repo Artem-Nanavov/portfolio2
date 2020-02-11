@@ -1,0 +1,29 @@
+.wrapper {
+    width: 280px;
+    height: 300px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    color: #4A4A4A;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 25px !important;
+}
+
+.container {
+    max-width: 255px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.body {
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
