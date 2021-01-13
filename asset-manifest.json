@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fly/static/css/main.5d7dc873.chunk.css",
+    "main.js": "/fly/static/js/main.a09dfc34.chunk.js",
+    "main.js.map": "/fly/static/js/main.a09dfc34.chunk.js.map",
+    "runtime-main.js": "/fly/static/js/runtime-main.456b3e06.js",
+    "runtime-main.js.map": "/fly/static/js/runtime-main.456b3e06.js.map",
+    "static/js/2.989defb0.chunk.js": "/fly/static/js/2.989defb0.chunk.js",
+    "static/js/2.989defb0.chunk.js.map": "/fly/static/js/2.989defb0.chunk.js.map",
+    "index.html": "/fly/index.html",
+    "precache-manifest.2f43c03fe5010f13b13d65ad88c9373c.js": "/fly/precache-manifest.2f43c03fe5010f13b13d65ad88c9373c.js",
+    "service-worker.js": "/fly/service-worker.js",
+    "static/css/main.5d7dc873.chunk.css.map": "/fly/static/css/main.5d7dc873.chunk.css.map",
+    "static/js/2.989defb0.chunk.js.LICENSE.txt": "/fly/static/js/2.989defb0.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/fly/static/media/Logo.0c089234.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456b3e06.js",
+    "static/js/2.989defb0.chunk.js",
+    "static/css/main.5d7dc873.chunk.css",
+    "static/js/main.a09dfc34.chunk.js"
+  ]
+}
